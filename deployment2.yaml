@@ -6,3 +6,8 @@ metadata:
   labels:
     fruit: apple
     color: red
+  templates:
+    name: node js:0.4
+    labels:
+      fruit: apple
+      color: red
